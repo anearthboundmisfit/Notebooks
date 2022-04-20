@@ -1,0 +1,3 @@
+# Scratchings
+
+Just scratching about, trying to improve my Python while not wasting anything...
